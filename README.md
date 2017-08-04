@@ -1,3 +1,8 @@
+---
+title: Couchbase .NET Core SDK without Windows
+type: dotnet-core-sdk-without-windows
+---
+
 # Using Couchbase .NET Core SDK without Windows #
 As of release 2.4.0, the Couchbase .NET SDK provides support for .NET Core 1.0. .NET Core is a new framework that allows .NET to run on OSX, Linux and Windows. For developing on Windows, Visual Studio is the standard for .NET Core development using Couchbase Server. For OSX and Linux, there are other development alternatives:
 
